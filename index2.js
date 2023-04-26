@@ -25,7 +25,8 @@ git add * adds all files that begin without period aka hidden
 -m message shorthand can be used on commit 
 orange M on left panel - changes made that werent committed 
 git add .
-git status
+git status - shows branch 
+
 
 
 */
